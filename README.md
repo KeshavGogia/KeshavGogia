@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Blockchain**
 
-- 🌱 I’m currently learning **Web3**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KeshavGogia](https://github.com/KeshavGogia)
 
