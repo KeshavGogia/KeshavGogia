@@ -9,8 +9,14 @@
 
 - 🌱 I’m currently learning **DevOps**
 
+- 👨‍💻 All of my projects are available at [https://keshav-portfolio.onrender.com](https://keshav-portfolio.onrender.com)
+
+- 📫 How to reach me **keshavgogia75@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/keshav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshav" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/keshavgogia510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="keshavgogia510" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keshavgogia&show_icons=true&locale=en&layout=compact" alt="keshavgogia" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshavgogia&show_icons=true&locale=en" alt="keshavgogia" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keshavgogia&" alt="keshavgogia" /></p>
