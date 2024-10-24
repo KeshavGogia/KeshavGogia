@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://keshav-portfolio.onrender.com/](https://keshav-portfolio.onrender.com/)
 
-- 📫 How to reach me **keshavgogia75@gmail.com**
+- 📫 How to reach me **keshavgogia57@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
