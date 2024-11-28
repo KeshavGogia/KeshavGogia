@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on **NLP**
 
-- 🌱 I’m currently learning **MLOPS**
 
 - 👨‍💻 All of my projects are available at [https://keshav-portfolio.onrender.com/](https://keshav-portfolio.onrender.com/)
 
