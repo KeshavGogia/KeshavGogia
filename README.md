@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **NLP**
 
 
-- 👨‍💻 All of my projects are available at [https://keshav-portfolio.onrender.com/](https://keshav-portfolio.onrender.com/)
+- 👨‍💻 All of my projects are available at [[https://keshav-portfolio.onrender.com/](https://portfolio-ebon-chi-63.vercel.app/)]
 
 - 📫 How to reach me **keshavgogia57@gmail.com**
 
